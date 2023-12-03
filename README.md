@@ -1,6 +1,6 @@
 # linguagens-formais-unilasalle
 
-Trabalhos da disciplina de Linguagens Formais - Universidade La Salle Canaso - 2023/2
+Trabalhos da disciplina de Linguagens Formais - Universidade La Salle Canoas - 2023/2
 
 - T1: Implementação de um programa para simulação de autômatos finitos determinísticos.
 - T2: Implementação de um programa para a conversão de autômatos finitos não-determinísticos em autômatos finitos determinísticos.
